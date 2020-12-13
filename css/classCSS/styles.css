@@ -1,0 +1,17 @@
+p {
+    color: blue;
+    font-size: larger;
+}
+
+/* Class */
+
+.parrafo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+
+/* ID */ 
+
+#texto {
+    color: blueviolet;
+}
