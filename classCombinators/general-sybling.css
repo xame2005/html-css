@@ -1,0 +1,6 @@
+/* Cambia a color rojo todos los párrafos que tengan un hermano general
+dentro de un mísmo scope de tipo h2*/
+
+h2 ~ p {
+    color: red;
+}
