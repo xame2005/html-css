@@ -1,0 +1,9 @@
+/* child (>) modifica todas las estiquetas p que estén dentro de
+una etiqueta div como padre (la etiqueta heredada del nivel superior).
+
+descendant cambia a color rojo cualquier etiqueta p que esté dentro de
+una etiqueta div bajo cualquier nivel*/
+
+div > p {
+    color: red;
+}
