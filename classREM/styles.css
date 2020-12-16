@@ -1,0 +1,19 @@
+/*
+hay que setear una medida relativa para todo el proyecto (html) y a partir
+de ahí trabajar con REM para volver el protecto responsive de una forma
+más amigablre*/
+
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    font-size: 62.5%;
+}
+
+p {
+    font-size: 1.6rem;
+
+}
