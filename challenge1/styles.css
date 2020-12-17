@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo {
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+section{
+   width: 40%;
+   margin: 0 auto;
+}
+
+figure {
+    background-color: gold;
+    border-radius: 10px;
+    padding: 5%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 17%;
+}
+
+h2 {
+    background-color: hotpink;
+    text-align: center;
+    padding: 1.3rem;
+    top: 1.5rem;
+    position: relative;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+p {
+    background-color: skyblue;
+    border-radius: 5px;
+    margin: 0 auto;
+    position: relative;
+    width: 85%;
+}
