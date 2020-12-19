@@ -62,3 +62,15 @@ figure {
 P {
     text-align: center;
 }
+
+.content {
+    display: inline-block;
+    position: absolute;
+    padding: 10px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: orange;
+}
