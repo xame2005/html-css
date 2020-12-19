@@ -15,25 +15,25 @@ body {
 .container {
     border: .3rem solid black;
     display: flex;
+    align-items: flex-end;
+    height: 50vh;
     flex-wrap: wrap;
-    justify-content: space-around;
 }
 
-.box {
-    width: 10rem;
-    height: 10rem;
-}
 
 .box {
-    width: 10rem;
     height: 10rem;
+    flex-basis: 10rem;
+    flex-grow: 1;
 }
 
 .box-1 {
     background-color: grey;
+    flex-grow: 1;
 }
 .box-2 {
     background-color: yellow;
+    flex-grow: 1;
 }
 .box-3 {
     background-color: red;
